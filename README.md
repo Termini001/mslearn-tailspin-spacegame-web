@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/termini/SpaceGameWeb/_apis/build/status/Termini001.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/termini/SpaceGameWeb/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
